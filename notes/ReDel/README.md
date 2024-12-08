@@ -2,6 +2,8 @@
 
 source: [paper](https://arxiv.org/abs/2408.02248) | [github](https://github.com/zhudotexe/redel)
 
+![Figure 1](./figure1.png)
+
 # English Version
 
 ## ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems
