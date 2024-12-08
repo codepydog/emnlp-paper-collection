@@ -7,4 +7,4 @@ Here correct each paper from EMNLP according the years
 
 | Title                                                     | Category                  | URL                                  | Note (English/Chinese)                 |
 |-----------------------------------------------------------|---------------------------|---------------------------------------|----------------------------------------|
-| ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems | agent | [Link](notes/ReDel/README.md)         | [note](notes/ReDel/README.md) |
+| ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems | agent | [link](notes/ReDel/README.md)         | [note](notes/ReDel/README.md) |
